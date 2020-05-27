@@ -63,6 +63,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Resources\Scripts\Day_Night_Cycle.cs" />
     <Compile Include="Assets\Resources\Scripts\Level_Initialization.cs" />
     <Compile Include="Assets\Resources\Scripts\Network_Manager_FPS.cs" />
     <Compile Include="Assets\Resources\Scripts\Player_Movement.cs" />
