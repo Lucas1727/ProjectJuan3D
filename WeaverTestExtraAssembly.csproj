@@ -284,6 +284,9 @@
     <Reference Include="System.Threading.Tasks.Extensions">
       <HintPath>C:/Users/Lucas/OneDrive/Coding/Unity/ProjectJuan3D/Assets/Mirror/Tests/Common/System.Threading.Tasks.Extensions.dll</HintPath>
     </Reference>
+    <Reference Include="ICSharpCode.NRefactory">
+      <HintPath>C:/Users/Lucas/OneDrive/Coding/Unity/ProjectJuan3D/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/Editor/ShaderGenerator/ICSharpCode.NRefactory.dll</HintPath>
+    </Reference>
     <Reference Include="nunit.framework">
       <HintPath>C:/Users/Lucas/OneDrive/Coding/Unity/ProjectJuan3D/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
